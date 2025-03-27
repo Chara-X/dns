@@ -1,6 +1,6 @@
 module github.com/Chara-X/dns
 
-go 1.23.1
+go 1.24.1
 
 require github.com/miekg/dns v1.1.62
 
